@@ -1,0 +1,13 @@
+# RPC 隐私泄露分析项目依赖
+requests>=2.28.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+web3>=6.0.0
+eth-account>=0.9.0
+
+# 报告生成
+jinja2>=3.1.0
+markdown>=3.4.0
+
+# 可选：流量抓包分析
+# mitmproxy>=10.0.0
